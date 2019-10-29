@@ -1,3 +1,3 @@
 # Hello-Git
-just do it
-My name is Zhang guo wen ,from China He Nan,and i am a student,i like coding and other interesting.
+#####当你在登陆某一个网站的时候，都会遇到验证码的验证，既然已经知道了它的作用，那么是如何实现的呢？其实实现起来也不这么难：
+#####用到了java中的画图工具类，用Graphics获取上下文，在画板上进一步操作，绘制你自己自定义的字符串（里面要包含字母，数字也就是要在验证码上面显示的东西），随机选取一定数量的字母生成，然后在生成干扰线。那么接下来就是代码演示。
